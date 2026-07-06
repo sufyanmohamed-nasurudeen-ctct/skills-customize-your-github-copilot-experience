@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-local-deployment",
+      "title": "FastAPI Local Deployment Checklist",
+      "description": "Prepare and verify a FastAPI app for reliable local deployment using environment configuration, health checks, and repeatable launch commands.",
+      "path": "assignments/fastapi-local-deployment",
+      "dueDate": "2026-07-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
